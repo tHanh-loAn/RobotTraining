@@ -10,9 +10,9 @@ Verify Search page visible
 Select the delivery method
     Click Element                   ${SEARCH_PAGE_DELIVERY_CHECK_BOX}
 
-Select the item of delivery method by index
-#    Select From List By Index       ${SEARCH_PAGE_LIST_DELIVERY_METHOD}        1
-    Click Element                   ${SEARCH_PAGE_STANDARD_DELIVERY_ ITEM}
+Select the item of delivery method by item name
+    [Arguments]                     ${locator_item}
+    Click Element                   ${locator_item}
     Sleep                           ${TIME_SLEEP}
 
 Select first product in list 
