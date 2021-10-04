@@ -1,0 +1,13 @@
+header_page_translation:
+  login_text: Log in | Register
+  hi_text:  Hi!
+search_page_translation:
+  search_results_text:  Show results for
+item_page_translation:
+  add_to_bag_text:  ADD TO BAG
+delivery_method_dictionary: 
+  standard_delivery:  Delivery Method_Standard Delivery
+  standard_pickup:  Delivery Method_Standard Pickup
+  1_hour_pickup:  Delivery Method_1 Hour Pickup
+  3_hour_delivery:  Delivery Method_3 Hour Delivery
+  express_delivery: Delivery Method_Express Delivery

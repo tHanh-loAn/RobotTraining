@@ -1,0 +1,13 @@
+header_page_translation:
+  login_text: เข้าสู่ระบบ | ลงทะเบียน
+  hi_text:  สวัสดี
+search_page_translation:
+  search_results_text:  ผลการค้นหาสำหรับ
+item_page_translation:
+  add_to_bag_text:  เพิ่มในถุงช้อปปิ้ง
+delivery_method_dictionary:   
+  standard_delivery:  วิธีการจัดส่ง_จัดส่งด่วน
+  standard_pickup:  วิธีการจัดส่ง_จัดส่งปกติ
+  1_hour_pickup:  วิธีการจัดส่ง_รับใน 1 ชั่วโมง
+  3_hour_delivery:  วิธีการจัดส่ง_ส่งด่วนใน 3 ชั่วโมง
+  express_delivery: วิธีการจัดส่ง_รับเวลาปกติ
